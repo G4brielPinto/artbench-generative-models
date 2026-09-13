@@ -1,0 +1,10 @@
+torch
+torchvision
+datasets
+numpy
+matplotlib
+tqdm
+torchmetrics[image]
+pillow
+ipywidgets
+jupyterlab
